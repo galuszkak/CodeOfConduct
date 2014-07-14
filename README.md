@@ -4,7 +4,7 @@
 - Zakazane jest nękanie osób względem:
 	- Religii
 	- Pochodzenia (etnicznego lub narodowego)
-	- Miejscowości zamieszkania
+	- Miejsca zamieszkania
 	- Płci
 	- Orientacji Seksualnej
 	- Niepełnosprawności
