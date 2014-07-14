@@ -1,4 +1,4 @@
-- Szanujmy i nie obrażamy się wzajemnie - Hackerspace nie jest miejscem do prowadzenia kłótni, które zdecydowanie dzielą, a nie łączą członków stowarzyszenia.
+- Szanujemy i nie obrażamy się wzajemnie - Hackerspace nie jest miejscem do prowadzenia kłótni, które zdecydowanie dzielą, a nie łączą członków stowarzyszenia.
 - Ograniczmy przekleństwa - nadmiernie wulgarny język nie jest mile widziany. Na spotkaniach, liście dyskusyjnej oraz na kale IRC.
 - Hackerspace ma być miejscem przyjaznym i dostępnym dla wszystkich. Nękanie, wyśmiewanie czy dyskryminacja pojedynczych osób lub grupy członków, nie będą akceptowane.
 - Zakazane jest nękanie osób względem:
