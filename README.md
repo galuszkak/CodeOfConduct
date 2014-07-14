@@ -1,10 +1,10 @@
-- Szanujmy i nie obrażajmy się nawzajem - Hackerspace nie jest miejscem do kłótni, które zdecydowanie dzielą a nie łączą członków stowarzyszenia.
-- Ograniczmy przekleństwa - nagminne przeklinanie nie jest mile widzianie. Na spotkaniach co również na kanale IRC oraz liście dyskusyjnej.
-- Hackerspace ma być miejscem przyjaznym i dostępnym dla wszystkich, więc nękanie, wyśmiewanie czy dyskryminacja pojedynczych lub grupy członków mija się z celem całego stowarzyszenia.
+- Szanujmy i nie obrażajmy się wzajemnie - Hackerspace nie jest miejscem do kłótni, które zdecydowanie dzielą, a nie łączą członków stowarzyszenia.
+- Ograniczmy przekleństwa - nadmiernie wulgarny język nie jest mile widziany. Na spotkaniach, liście dyskusyjnej oraz na kale IRC.
+- Hackerspace ma być miejscem przyjaznym i dostępnym dla wszystkich. Nękanie, wyśmiewanie czy dyskryminacja pojedynczych osób lub grupy członków nie będą akceptowane.
 - Zakazane jest nękanie osób względem:
 	- Religii
 	- Pochodzenia (etnicznego lub narodowego)
-	- Miejscowości (Incydent z BB co wspominała Justyna?)
+	- Miejscowości zamieszkania
 	- Płci
 	- Orientacji Seksualnej
 	- Niepełnosprawności
@@ -12,4 +12,5 @@
 - ???
 - Nie dodawajmy zdjęć wiewiórek podczas prezentacji ;-) 
 
-Za złamanie z których powyższych punktów jest wysyłane ostrzeżenie (do 2? do 3? brak ostrzeżeń?). Jeżeli ostrzeżenia nie pomagają i dalej są łamane punkty Code of Conduct to zarząd stowarzyszenia jest zobowiązany do ocenienia sytuacji oraz ewentualnego usunięcia członka z Hackerspace oraz z kanału i listy dyskusyjnej. Osoba będaca w stowarzyszeniu i zaangażowana w konflikt nie ma prawa oceniać sytuacji oraz decyzji o wyrzuceniu danej osoby.
+Za złamanie któregoś z powyższych punktów wysyłane jest ostrzeżenie. W przypadku trzech(liczba do ustalenia) ostrzeżeń. Sprawa zostaje skierowana do Zarządu stowarzyszenia. Zarząd zobowiązany jest(może podamy czas, np. 3 dni?) do podjęcia dalszych kroków w celu zarzegnania konfliktu. Zarząd może podjąć decyzję o tymczasowym zablokowaniu na kanale IRC, usunięciu z listy dyskusyjnej lub w ostateczności usunięciu z członkostwa w stowarzyszeniu.
+Jeśli w konfilkt zamieszany jest któryś z członków stowarzyszenia, zostaje on wykluczony z procesu podejmowania decyzji w sprawie konfliktu, w którym uczestniczy.
