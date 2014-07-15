@@ -9,20 +9,21 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 
 1. __Standardy ogólne__
 
-    Członkowie stowarzyszenia muszą unikać wszystkiego, co grozi uwikłaniem stowarzyszenia lub jego członków w działalność sprzeczną z prawem. Wykorzystywanie przez któregokolwiek z członków majątku stowarzyszenia do jakichkolwiek celów sprzecznych z prawem jest surowo zabronione.
-
+    Członkowie stowarzyszenia poszerzają swoją wiedzę i umiejętności dla własnego rozwoju oraz społeczeństwa informacyjnego. Członkowie chcą swoją wiedzę wykorzystywać przedewszystkim by tworzyć społeczność hackerską która jest wierna "etosowi hakerskiemu" -> http://en.wikipedia.org/wiki/Hacker_ethic
+    
 2. __Kłótnie i konflikty__
 
-    Hackerspace jest naturalnym miejscem prowadzenia dyskusji na tematy związane z szeroko pojętą branżą technologiczną oraz tematami związanymi z bezpieczeństwem, otwartościom oraz niezależnoścom sieci. Staramy się jednak nie angażować i nie sporwadzać na płaszczyznę naszego Stowarzyszenia zewnętrznych kłótni, które nie mają żadnego związku z działaniem i celami Hackerspace Silesia.
+    Hackerspace jest naturalnym miejscem prowadzenia dyskusji na tematy związane z szeroko pojętą branżą technologiczną oraz tematami związanymi z bezpieczeństwem, otwartościom oraz niezależnoścom sieci. Staramy się jednak nie angażować i nie sprowadzać na płaszczyznę naszego Stowarzyszenia zewnętrznych kłótni, które nie mają żadnego związku z działaniem i celami Hackerspace Silesia.
 
 3. __Ochrona majątku stowarzyszenia__
 
     Każdy członek, który doprowadził do zniszczenia lub zaginięcia mienia należącego do stowarzyszenia, zobowiązany jest do pokrycia kosztów naprawy wyrządzonych szkód.
 
 
-4. __Działalnośc polityczna__
+4. __Polityka__
 
-    Każdy z członków stowarzyszenia, ma prawo do korzystania ze swoich praw obywatelskich poprzez głosowanie lub czynne zaangażowanie się w politykę na rzecz kandydatów lub partii wybranych zgodnie z ich osobistymi przekonaniami. Należy wyraźnie zaznaczyć, że członkowie stowarzyszenia angażują się czynnie w politykę  wyłącznie w ramach kompetencji osobistych i prywatnych jako świadomi obywatele, a nie w Hackerspace Silesia.
+    Hackerspace jest neutralny politycznie.
+    
 
 5. __Zasady dotyczące reprezentowania stowarzyszenia__
     !do zrobienia!
@@ -31,6 +32,7 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 6. __Równe szanse__
 
     Hackerspace Silesia nie dyskryminuje żadnego z członków stowarzyszenia ani osoby ubiegającej się o członkostwo ze względu na:
+        - Używanie danego oprogramowania i sprzętu
         - Rasę
         - Religię
         - Pochodzenie (etniczne lub narodowe)
@@ -40,11 +42,10 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
         - Wiek
         - Niepełnosprawność
         - Przekonania polityczne
-        - Używanie danego oprogramowania i sprzętu
 
-7. __Wulgarny język__
+7. __Komunikacja__
 
-    Stowarzyszenia zachęca wszystkich członków do powstrzymania się od używania nadmiernej licznych wulgarnych słów zarówno w czasie spotkań, jak i liście dyskusyjnej oraz na kanale IRC.
+    Stowarzyszenia zachęca do zachowywania kultury słownej zarówno w czasie spotkań, jak i liście dyskusyjnej oraz na kanale IRC.
 
 8. __Grożenie przemocą__
 
