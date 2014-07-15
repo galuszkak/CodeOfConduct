@@ -13,11 +13,11 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 	
 2. __Kłótnie i konflikty__
 
-	Hackerspace jest naturalnym miejscem prowadzenia kłótni na tematy związane z szeroko pojętą branżą technologiczną oraz tematami związanymi z bezpieczeństwem, otwartościom oraz niezależnoścom sieci. Staramy się jednak nie angażować i nie sporwadzać na płaszczyznę naszego Stowarzyszenia zewnękrznych kłótni, które nie mają żadnego związku z działaniem i celami Hackerspace Silesia. 
+	Hackerspace jest naturalnym miejscem prowadzenia kłótni na tematy związane z szeroko pojętą branżą technologiczną oraz tematami związanymi z bezpieczeństwem, otwartościom oraz niezależnoścom sieci. Staramy się jednak nie angażować i nie sporwadzać na płaszczyznę naszego Stowarzyszenia zewnętrznych kłótni, które nie mają żadnego związku z działaniem i celami Hackerspace Silesia. 
 	
 3. __Ochrona majątku stowarzyszenia__
 
-	Każdy członek, który doprowadził do zniszczenia lub zaginięcia mienia należącego do stowarzyszenia, zobowiązana jest do pokrycia kosztów naprawy wyrządzonych szkód.
+	Każdy członek, który doprowadził do zniszczenia lub zaginięcia mienia należącego do stowarzyszenia, zobowiązany jest do pokrycia kosztów naprawy wyrządzonych szkód.
 
 4. __Poufność korespondencji__
 
@@ -47,7 +47,7 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 
 8. __Wulgarny język__
 
-	Stowarzyszenia zachęca wszystkich członków do powstrzymania się od używania nadmiernej liczny wulgarnych słów zarówno w czasie spotkań, jak i liście dyskusyjnej oraz na kanale IRC.
+	Stowarzyszenia zachęca wszystkich członków do powstrzymania się od używania nadmiernej licznych wulgarnych słów zarówno w czasie spotkań, jak i liście dyskusyjnej oraz na kanale IRC.
 
 9. __Grożenie przemocą__
 
@@ -55,11 +55,11 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 	
 10. __Zgłaszanie naruszeń__
 
-	Jeśli ktoś wie o wykroczeniu, nielegalnym działaniu, oszustwie, sprzeniewierzeniu majątku stowarzyszenia lub naruszeniu tego Kodeksu, albo ma uzasadnione podejrzenie ich popełnienia, ma obowiązek zgłosić do Zarządu swoje wątpliwości. Pierwszym krokiem w procesie zgłoszenia większości zastrzeżeń powinno być omówienie ich zwaśnioną stroną. Większość problemów można rozwiązać pomiędzy sobą, bez angażowania struktur stowarzyszenia. Jeśli jednak członek stowarzyszenia uzna, że nie ma możliwości rozwiązania problemu samodzielnie, powinien zgłosił go do, któregoż z członków Zarządu. 
+	Jeśli ktoś wie o wykroczeniu, nielegalnym działaniu, oszustwie, sprzeniewierzeniu majątku stowarzyszenia lub naruszeniu tego Kodeksu, albo ma uzasadnione podejrzenie ich popełnienia, ma obowiązek zgłosić do Zarządu swoje wątpliwości. Pierwszym krokiem w procesie zgłoszenia większości zastrzeżeń powinno być omówienie ich zwaśnioną stroną. Większość problemów można rozwiązać pomiędzy sobą, bez angażowania struktur stowarzyszenia. Jeśli jednak członek stowarzyszenia uzna, że nie ma możliwości rozwiązania problemu samodzielnie, powinien zgłosił go do, któregoś z członków Zarządu. 
 
 11. __Narzędzia dyscyplinarne__
 
-	W przypadku zgłoszenia konfliktu do Zarządu stowarzyszenia Hackerspace Silesia, Zarząd zobowiązany jest (może podamy czas, np. 3 dni?) do podjęcia dalszych kroków w celu zarzegnania konfliktu. Zarząd może podjąć po głosowaniu decyzję o tymczasowym zablokowaniu danej osoby na kanale IRC, usunięciu z listy dyskusyjnej lub w ostateczności usunięciu z członkostwa w stowarzyszeniu.
+	W przypadku zgłoszenia konfliktu do Zarządu stowarzyszenia Hackerspace Silesia, Zarząd zobowiązany jest (może podamy czas, np. 3 dni?) do podjęcia dalszych kroków w celu zażegnania konfliktu. Zarząd może podjąć po głosowaniu decyzję o tymczasowym zablokowaniu danej osoby na kanale IRC, usunięciu z listy dyskusyjnej lub w ostateczności usunięciu z członkostwa w stowarzyszeniu.
 
 12. __Wyłaczenie z procesu rozwiązywania sporów__
 
