@@ -34,16 +34,16 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 7. __Równe szanse__
 
 	Hackerspace Silesia nie dyskryminuje żadnego z członków stowarzyszenia ani osoby ubiegającej się o członkostwo ze względu na:
-		- Rasę
-		- Religię
-		- Pochodzenie (etniczne lub narodowe)
-		- Miejsce zamieszkania
-		- Płeć
-		- Orientację Seksualną
-		- Wiek
-		- Niepełnosprawność
-		- Przekonania polityczne
-		- Używanie danego oprogramowania i sprzętu
+	>	- Rasę
+	>	- Religię
+	>	- Pochodzenie (etniczne lub narodowe)
+	>	- Miejsce zamieszkania
+	>	- Płeć
+	>	- Orientację Seksualną
+	>	- Wiek
+	>	- Niepełnosprawność
+	>	- Przekonania polityczne
+	>	- Używanie danego oprogramowania i sprzętu
 
 8. __Wulgarny język__
 
