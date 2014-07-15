@@ -20,9 +20,9 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
     Każdy członek, który doprowadził do zniszczenia lub zaginięcia mienia należącego do stowarzyszenia, zobowiązany jest do pokrycia kosztów naprawy wyrządzonych szkód.
 
 
-4. __Działalnośc polityczna__
+4. __Polityka__
 
-    Każdy z członków stowarzyszenia, ma prawo do korzystania ze swoich praw obywatelskich poprzez głosowanie lub czynne zaangażowanie się w politykę na rzecz kandydatów lub partii wybranych zgodnie z ich osobistymi przekonaniami. Należy wyraźnie zaznaczyć, że członkowie stowarzyszenia angażują się czynnie w politykę  wyłącznie w ramach kompetencji osobistych i prywatnych jako świadomi obywatele, a nie w Hackerspace Silesia.
+    Hackerspace jest neutralny politczynie.
 
 5. __Zasady dotyczące reprezentowania stowarzyszenia__
     !do zrobienia!
